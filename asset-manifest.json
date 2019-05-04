@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Toe-Minimax/static/css/main.60f595f0.chunk.css",
+    "main.js": "/Tic-Tac-Toe-Minimax/static/js/main.6fd763d6.chunk.js",
+    "main.js.map": "/Tic-Tac-Toe-Minimax/static/js/main.6fd763d6.chunk.js.map",
+    "runtime~main.js": "/Tic-Tac-Toe-Minimax/static/js/runtime~main.addebd75.js",
+    "runtime~main.js.map": "/Tic-Tac-Toe-Minimax/static/js/runtime~main.addebd75.js.map",
+    "static/js/2.dc687d74.chunk.js": "/Tic-Tac-Toe-Minimax/static/js/2.dc687d74.chunk.js",
+    "static/js/2.dc687d74.chunk.js.map": "/Tic-Tac-Toe-Minimax/static/js/2.dc687d74.chunk.js.map",
+    "index.html": "/Tic-Tac-Toe-Minimax/index.html",
+    "precache-manifest.8aabe3614cb869e2240010a83db594b0.js": "/Tic-Tac-Toe-Minimax/precache-manifest.8aabe3614cb869e2240010a83db594b0.js",
+    "service-worker.js": "/Tic-Tac-Toe-Minimax/service-worker.js",
+    "static/css/main.60f595f0.chunk.css.map": "/Tic-Tac-Toe-Minimax/static/css/main.60f595f0.chunk.css.map"
+  }
+}
