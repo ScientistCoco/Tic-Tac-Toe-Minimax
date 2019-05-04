@@ -1,0 +1,30 @@
+$whiteBorder: 8px solid white;
+
+.Board {    
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+
+    &__Item {        
+        width: 104px;
+        height: 104px;
+        background: none;
+        color: white;
+        cursor: pointer;
+        border: none;
+        font-size: 3em;
+        font-family: 'Fredoka One', cursive;
+
+        &:nth-child(3n+1) {
+            border-right: $whiteBorder;
+        }
+
+        &:nth-child(3n+3) {
+            border-left: $whiteBorder;
+        }
+
+        &:nth-child(n+4):nth-child(-n+6) {
+            border-top: $whiteBorder;
+            border-bottom: $whiteBorder;
+        }
+    }
+}
